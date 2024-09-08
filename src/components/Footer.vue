@@ -11,7 +11,7 @@
             -
           </span>
           {{ fullYear }}
-          <a href="https://github.com/NoLimt">{{ siteAuthor }}</a>
+          <a href="https://github.com/NoLimt" target="_blank">{{ siteAuthor }}</a>
         </span>
         <!-- 以下信息请不要修改哦 -->
       
