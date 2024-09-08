@@ -16,9 +16,7 @@
         <!-- 以下信息请不要修改哦 -->
         <span class="hidden">
           &amp;&nbsp;Made&nbsp;by
-          <a :href="https://github.com/NoLimt" target="_blank">
-            {{ config.author }}
-          </a>
+          <a href="https://github.com/NoLimt" target="_blank">
         </span>
         <!-- 站点备案 -->
     
